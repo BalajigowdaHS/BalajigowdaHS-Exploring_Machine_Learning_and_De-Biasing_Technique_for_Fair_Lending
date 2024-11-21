@@ -10,9 +10,16 @@ The project aimed to investigate potential fair lending violations in both the H
 
 **Exploratory Data Analysis (EDA):** Comprehensive EDA was performed on both the HMDA dataset and high-priced loans dataset. This included analyzing applicant demographics, loan characteristics, and outcomes to identify patterns and disparities.
 
+![image](https://github.com/user-attachments/assets/ee701b40-8adc-4f3c-93b6-194acd45c560)
+
+
 **Comparative Analysis:** We compared lending outcomes and rates between standard loans and high-priced loans to detect any significant disparities that could indicate biased lending practices.
+![image](https://github.com/user-attachments/assets/4f78ab52-b6a8-4fd1-8c4f-90a2c1581446)
+
 
 **Fair Lending Metrics:** Key metrics such as denial rates, approval rates, loan pricing, and disparate impact ratios were calculated to assess potential biases in the decision-making process for both datasets.
+![image](https://github.com/user-attachments/assets/dbe1ddfa-7ab0-4fb9-b1ff-acbebb480f87)
+
 
 ### 2. Building Predictive Models:
 
