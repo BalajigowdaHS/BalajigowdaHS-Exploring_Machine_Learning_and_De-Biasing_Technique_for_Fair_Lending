@@ -42,6 +42,8 @@ The project aimed to investigate potential fair lending violations in both the H
 **Fairness Metrics:** We measured the impact of de-biasing techniques using fairness metrics like demographic parity, equalized odds, and disparate impact ratios. These metrics were crucial in evaluating the reduction of bias in both standard and high-priced loan predictions.
 
 **Trade-off Analysis:** We analyzed the trade-offs between fairness and model performance by comparing the accuracy, precision, recall, and other metrics of the original and debiased models. This helped in understanding the impact of de-biasing on model efficacy.
+![image](https://github.com/user-attachments/assets/0ac80889-5ea4-48fe-b100-60e9bddcb43f)
+
 
 ### 5. Above Files and Description
 
@@ -51,11 +53,25 @@ variables and observations in the HMDA 2022 dataset.
 **Approved & Denied Model (Data Cleaning and Model Selection):** Python code for data
 cleaning, various model training, and model selection based on multiple performance metrics.
 
+![image](https://github.com/user-attachments/assets/8e13b65a-96d8-40bb-8916-5d230de7903b)
+
+![image](https://github.com/user-attachments/assets/0f72a863-bfcc-41eb-b22c-d99587fc5fb1)
+
+![image](https://github.com/user-attachments/assets/c7043102-c708-44f5-9a67-556142fb2115)
+
+
+
 **Approved & Denied Model (Bias Removal on XGB Model):** The Python code for bias
 removal on the best-performing model.
 
 **High-Priced Model (Data Cleaning and Model Selection):** The Python code for data cleaning,
 various model training, and model selection based on multiple performance metrics.
+
+![image](https://github.com/user-attachments/assets/f398ed6a-753d-4528-891b-47dc74cbb374)
+
+
+![image](https://github.com/user-attachments/assets/a70ba275-fb8b-48b4-ab83-6a9e2a532570)
+
 
 **High-Priced Model (Bias Removal on XGB Model):** The Python code for bias removal on the
 best-performing model.
@@ -68,6 +84,7 @@ High-Priced model.
 
 **Approved & Denied De-Biasing Techniques:** The Python code for running all the de-biasing
 techniques on the Approved & Denied Model.
+
 
 **High-Priced De-Biasing Techniques:** The Python code for running all the de-biasing techniques
 on the High Priced Model.
